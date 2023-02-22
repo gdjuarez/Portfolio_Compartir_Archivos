@@ -6,7 +6,7 @@ $profesor=$_POST['profesor'];
 
 echo $profesor;
 
- if($profesor=="E4730") 
+ if($profesor==" ACA PONER LA CLAVE PROFESOR ") 
  {
 	$_SESSION['logged'] = 'yes';
 
